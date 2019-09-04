@@ -1,0 +1,11 @@
+Function addItems() {
+// this is where one adds items
+}
+
+Function checkItems() {
+// this is where one checks and unchecks items
+}
+
+Function deleteItems() {
+// this is where on deletes items
+}
